@@ -7,9 +7,10 @@ def second_challenge
   }
 
   #code your solution here!
-  contacts.each do |person, data|
-    data.each do |attribute, value|
-    
+groceries[:dairy].values
+groceries[:vegetable].values
+groceries[:meat].values
+groceries[:grains].values
 
 
 end
