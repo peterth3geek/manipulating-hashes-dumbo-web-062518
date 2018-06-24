@@ -10,5 +10,8 @@ new_array = []
 
 groceries.each do |key, value|
   new_array+= value
+end
+
+new_array
 
 end
