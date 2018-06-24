@@ -22,6 +22,8 @@ if attribute == :favorite_icecream_flavors
 
 end
 end
+end
+end
   #remember to return your newly altered contacts hash!
   contacts
 end
