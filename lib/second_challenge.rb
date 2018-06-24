@@ -7,7 +7,9 @@ def second_challenge
   }
 
   #code your solution here!
+  contacts.each do |person, data|
+    data.each do |attribute, value|
+    
 
-  
 
 end
