@@ -7,6 +7,6 @@ def second_challenge
   }
 
 
-groceries.[:dairy].join(", ")
+
 
 end
