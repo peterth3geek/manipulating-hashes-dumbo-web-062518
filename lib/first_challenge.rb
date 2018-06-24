@@ -18,7 +18,8 @@ contacts.each do |person, data|
   data. each do |atribute, value|
     if value == "strawberry"
       favorite_icecream_flavors.shift
-
+end
+end
   #remember to return your newly altered contacts hash!
   contacts
 end
